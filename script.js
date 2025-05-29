@@ -1,0 +1,1 @@
+alert("Olá, você sabia dessas coisas")
